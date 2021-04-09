@@ -25,7 +25,10 @@ body {
 }
 .menu ul li a {
     text-decoration: none;
-}
+ }
 .menu ul li:hover {
     background-image: url("images/li-bg-hover.jpg");
+}
+.menu ul li:hover a {
+    color: black;
 }
